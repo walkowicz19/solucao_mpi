@@ -27,13 +27,12 @@ O algoritmo divide o espaço de pares entre os processos MPI disponíveis de for
 
 | Item                        | Descrição                              |
 | --------------------------- | -------------------------------------- |
-| Processador                 | _(preencher — ex.: Intel Core i7)_     |
-| Número de núcleos           | _(preencher — ex.: 8 núcleos físicos)_ |
-| Memória RAM                 | _(preencher — ex.: 16 GB)_             |
-| Sistema Operacional         | _(preencher — ex.: Ubuntu 22.04)_      |
-| Linguagem utilizada         | C / C++                                |
+| Processador                 | 12th Gen Intel(R) Core(TM) i7-12700      |
+| Número de núcleos           | 12 Núcleos |
+| Memória RAM                 | 16 GB RAM             |
+| Sistema Operacional         | Windows 11      |
+| Linguagem utilizada         | Python                               |
 | Biblioteca de paralelização | MPI (Message Passing Interface)        |
-| Compilador / Versão         | _(preencher — ex.: mpicc / GCC 11.4)_  |
 
 ---
 
