@@ -1,10 +1,10 @@
 # Relatório de Comparação de Pares com MPI
 
 **Disciplina:** Programação Paralela e Distribuída
-**Aluno(s):** _(preencher)_
-**Turma:** _(preencher)_
-**Professor:** _(preencher)_
-**Data:** _(preencher)_
+**Aluno(s):** Matheus Nery Walkowicz
+**Turma:** Noturno
+**Professor:** Rafael Marconi Ramos
+**Data:** 08/04/2026
 
 ---
 
