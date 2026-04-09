@@ -129,7 +129,7 @@ Speedup(12) = 128,86 / 10,01 = 12,87   Eficiência(12) = 12,87 / 12 = 1,07
 - Eixo Y: tempo de execução (segundos)
 - Observar a queda de 128,86 s → 10,01 s
 
-![Gráfico Tempo Execução](graficos/tempo_execucao.png)
+![Gráfico Tempo Execução](imagem1.png)
 
 ---
 
@@ -140,7 +140,7 @@ Speedup(12) = 128,86 / 10,01 = 12,87   Eficiência(12) = 12,87 / 12 = 1,07
 - Linha de speedup ideal (linear) incluída para comparação
 - Todos os pontos ficam **acima** da linha ideal, evidenciando superlinearidade
 
-![Gráfico Speedup](graficos/speedup.png)
+![Gráfico Speedup](imagem2.png)
 
 ---
 
@@ -151,7 +151,7 @@ Speedup(12) = 128,86 / 10,01 = 12,87   Eficiência(12) = 12,87 / 12 = 1,07
 - Linha de eficiência ideal (= 1,0) incluída para comparação
 - Eficiência decresce de 2,74 (p=2) até 1,07 (p=12), permanecendo acima de 1,0 em todo o intervalo
 
-![Gráfico Eficiência](graficos/eficiencia.png)
+![Gráfico Eficiência](imagem3.png)
 
 ---
 
